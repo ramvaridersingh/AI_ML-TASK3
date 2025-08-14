@@ -1,12 +1,8 @@
-# AI_ML-TASK_3
+
 # Task 3: Machine Learning Model Implementation
 
 This notebook is part of my AI & ML internship.  
 In this task, I worked on applying machine learning techniques to a dataset, including data preprocessing, model training, and evaluation.
-
-## Dataset Used
-- [Specify dataset name here, e.g., Titanic, Iris, etc.]
-- Provide dataset source if available (Kaggle, UCI, etc.)
 
 ## Tools & Libraries
 - Python
